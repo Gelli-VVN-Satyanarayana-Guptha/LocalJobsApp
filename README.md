@@ -1,8 +1,7 @@
 Android Application to load the Job Opportunities from lokal news app test API and display it in the UI.
 Implemented Pagination logic and used Caching
 
-Design Pattern Followed: Model-View-ViewModel 
-Tried to follow the Clean Architecture thoughout the project
+Design Pattern Followed: Model-View-ViewModel (Tried to follow the Clean Architecture thoughout the project)
 
 Libraries Used: 
 * Jetpack compose for UI
